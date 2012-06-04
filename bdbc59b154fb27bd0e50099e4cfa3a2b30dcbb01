@@ -6,3 +6,11 @@ D-Modules/: 05f0bdb declared and installed AssociatedOrderGradedRing and Associa
 
 Versions:
  2012.02.29
+
+ExamplesForHomalg/: bdbc59b Changed the maketest.g to GAPDoc 1.5
+
+Versions:
+2011.09.06 which is Markus' version
+2011.10.05 which is Mohamed's version
+2011.05.05 which is Sebastian's version
+2012.03.09 which is Sebas' version
